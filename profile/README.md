@@ -1,4 +1,4 @@
-Welcome to the github organization of the ROS Delibeation Working Group
+Welcome to the github organization of the ROS Deliberation Working Group
 Please refer to our [documentation](https://docs.google.com/document/d/13TCHp3ycbDa2agGs0SjP3CpTllUeguAcXqih5LlCVDg) for all the info you need to participate.
 
 <img src="https://github.com/ros-wg-delib/.github/raw/main/logo.png" width="200" />
